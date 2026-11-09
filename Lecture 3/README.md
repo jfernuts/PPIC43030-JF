@@ -1,1 +1,1 @@
-couldn't get .py files
+struggled with lec 3
