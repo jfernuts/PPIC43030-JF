@@ -1,1 +1,1 @@
-.py files not found
+couldn't locate .py files in canvas
